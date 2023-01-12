@@ -55,7 +55,7 @@ classifiers = [
     "Topic :: Utilities",
 ]
 dependencies = [
-    "sphinxcontrib-applehelp",
+    "sphinxcontrib-applehelp==1.0.2",
     "sphinxcontrib-devhelp",
     "sphinxcontrib-jsmath",
     "sphinxcontrib-htmlhelp>=2.0.0",
